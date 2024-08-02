@@ -1,0 +1,1 @@
+docker exec rabbitmq-stream rabbitmq-plugins enable rabbitmq_management
